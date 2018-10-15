@@ -1,8 +1,10 @@
 # Gaia_data_analysis_HGSFP2018
-The course material for the HGSFP graduate days (October 2018)
+The course material for the HGSFP graduate days (October 2018). It consists of Gaia mission and data introduction and hands-on jupyter notebooks redoing parts of the scientific analysis of the following papers: [Hyades](https://www.aanda.org/articles/aa/abs/2018/08/aa32727-18/aa32727-18.html), [Stellar encounters](https://arxiv.org/abs/1805.07581), [Geometric distances from parallaxes](https://arxiv.org/abs/1804.10121). 
+
+The notebooks are commented and there are coding tasks given (try to avoid looking at the solutions, which are usually given in the following field).
 
 The complete data directory can be downloaded from [here](https://keeper.mpdl.mpg.de/d/e779e0dc09724537b651/).
-The data can be obtained by running the Retrieval notebooks as well.
+The data can be obtained by running the Retrieval notebooks as well. These use ADQL queries on virtual observatory services.
 
 #### Day 1 (Jan)
 - General introduction to Gaia mission and Gaia DR2
